@@ -30,7 +30,7 @@ const zeroData = {
         
         // Choice 3: A multi-line story!
         [
-            "Well, whats this?",
+            "Well, what's this?",
             "You're rather displaced.",
             "Are you certain whatever you're doing is worth it?"
         ]
