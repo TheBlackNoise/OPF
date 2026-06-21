@@ -36,7 +36,7 @@ characterDialogue: {
 };
 
 // Load the 22x22 pixel art graphic from your Sprites folder
-busshiData.imageElement.src = "Sprites/busshi.png";
+busshiData.imageElement.src = "Sprites/Busshi.png";
 busshiData.imageElement.onload = function() { 
     busshiData.imageLoaded = true; 
 };
