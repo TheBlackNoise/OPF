@@ -1,0 +1,5 @@
+// Master Directory connecting all separate Devil Fruits into a clean list
+const fruits = [
+    busshiData
+    // Future fruits will just be dropped right here separated by a comma!
+];
